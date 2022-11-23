@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kushal Jayswal
-- 👀 I’m interested in coding and blogging.
+- 👀 I’m interested in coding and blogging. I am passionate about carpentry and cycling.
 - 🌱 I’m currently learning Reactjs.
 - 💞️ I’m looking to collaborate on Blogging. Have a plan to launch a new blog focused on frontend development tricks and tips.
 - 📫 jayswal[dot]kushal[at]gmail[dot]com
