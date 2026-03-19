@@ -1,8 +1,11 @@
 <h1>Hi, I'm Kushal 👋</h1>
 
-🚀 Senior Frontend Developer | React | Performance | UI Engineering
+🚀 Senior Frontend Developer | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) | Performance | UI Engineering
 
 I build scalable, high-performance frontend systems with a focus on clean architecture and user experience.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kutec)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kutec)
 
 ---
 
@@ -19,8 +22,7 @@ I build scalable, high-performance frontend systems with a focus on clean archit
 - Frontend System Design
 - Performance Engineering
 
-
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+---
 
 ## 📬 Connect
 - Portfolio: https://teckstack.com (rebuilding)
