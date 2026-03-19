@@ -2,13 +2,15 @@
 
 💻 Senior Frontend Developer | React | TypeScript | UI Engineering
 
+💡 Focused on building scalable frontend systems with performance and clean architecture
+
 🌍 Open to Frontend / UI Engineer roles in Ireland (open to relocation & visa sponsorship)
 
 
 
 ## 👨‍💻 About Me
 
-I’m a frontend developer with a strong focus on building **scalable, maintainable, and user-friendly web applications**.
+I’m a Senior Frontend Developer focused on building scalable, maintainable, and user-friendly web applications.
 
 I have experience working on real-world products where performance, usability, and clean architecture matter. Over time, I’ve developed a practical approach to frontend engineering—balancing speed, quality, and long-term maintainability.
 
@@ -36,8 +38,6 @@ Recently, I’ve also started integrating **AI tools into development workflows*
 **State & Architecture**: Redux • Zustand • Component-driven architecture
 
 **Tools & Workflow**: Git • GitHub • VS Code • Chrome DevTools
-
-**Exploring**: Next.js • Frontend performance engineering • AI-assisted development
 
 
 
@@ -74,9 +74,6 @@ I believe in consistent learning and incremental improvement through building.
 ---
 
 ⭐ If you find something useful in my work, feel free to explore or connect!
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=kutec)
 
 <!---
 kutec/kutec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
