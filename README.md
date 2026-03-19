@@ -1,5 +1,3 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=kutec)
-
 <h1>Hi, I'm Kushal Jayswal 👋</h1>
 
 💻 Senior Frontend Developer | React | TypeScript | UI Engineering
@@ -82,6 +80,8 @@ I believe in consistent learning and incremental improvement through building.
 
 ⭐ If you find something useful in my work, feel free to explore or connect!
 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kutec)
 
 <!---
 kutec/kutec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
