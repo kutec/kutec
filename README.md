@@ -19,7 +19,8 @@ I build scalable, high-performance frontend systems with a focus on clean archit
 - Frontend System Design
 - Performance Engineering
 
----
+
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
 ## 📬 Connect
 - Portfolio: https://teckstack.com (rebuilding)
