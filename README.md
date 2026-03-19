@@ -29,25 +29,15 @@ Recently, I’ve also started integrating **AI tools into development workflows*
 
 ## 🛠 Tech Stack
 
-**Frontend**
+**Frontend**: React • TypeScript • Next.js • JavaScript
 
-React • TypeScript • Next.js • JavaScript
+**Styling & UI**: Tailwind CSS • Responsive Design • Design Systems
 
-**Styling & UI**
+**State & Architecture**: Redux • Zustand • Component-driven architecture
 
-Tailwind CSS • Responsive Design • Design Systems
+**Tools & Workflow**: Git • GitHub • VS Code • Chrome DevTools
 
-**State & Architecture**
-
-Redux • Zustand • Component-driven architecture
-
-**Tools & Workflow**
-
-Git • GitHub • VS Code • Chrome DevTools
-
-**Exploring**
-
-Next.js • Frontend performance engineering • AI-assisted development
+**Exploring**: Next.js • Frontend performance engineering • AI-assisted development
 
 
 
