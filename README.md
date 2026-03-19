@@ -2,7 +2,7 @@
 
 💻 Senior Frontend Developer | React | TypeScript | UI Engineering
 
-🌍 Open to Frontend / UI Engineer roles in Ireland (Stamp 1 / Visa-ready if applicable)
+🌍 Open to Frontend / UI Engineer roles in Ireland (open to relocation & visa sponsorship)
 
 
 
@@ -30,18 +30,23 @@ Recently, I’ve also started integrating **AI tools into development workflows*
 ## 🛠 Tech Stack
 
 **Frontend**
+
 React • TypeScript • Next.js • JavaScript
 
 **Styling & UI**
+
 Tailwind CSS • Responsive Design • Design Systems
 
 **State & Architecture**
+
 Redux • Zustand • Component-driven architecture
 
 **Tools & Workflow**
+
 Git • GitHub • VS Code • Chrome DevTools
 
 **Exploring**
+
 Next.js • Frontend performance engineering • AI-assisted development
 
 
