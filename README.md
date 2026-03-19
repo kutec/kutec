@@ -4,6 +4,7 @@
 <h1>Hi, I'm Kushal Jayswal 👋</h1>
 
 💻 Senior Frontend Developer | React | TypeScript | UI Engineering
+
 🌍 Open to Frontend / UI Engineer roles in Ireland (Stamp 1 / Visa-ready if applicable)
 
 ---
