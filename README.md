@@ -1,8 +1,30 @@
-- 👋 Hi, I’m Kushal Jayswal
-- 👀 I’m interested in coding and blogging. I am passionate about carpentry and cycling.
-- 🌱 I’m currently learning Reactjs.
-- 💞️ I’m looking to collaborate on Blogging. Have a plan to launch a new blog focused on frontend development tricks and tips.
-- 📫 jayswal[dot]kushal[at]gmail[dot]com
+<h1>Hi, I'm Kushal 👋</h1>
+
+🚀 Senior Frontend Developer | React | Performance | UI Engineering
+
+I build scalable, high-performance frontend systems with a focus on clean architecture and user experience.
+
+---
+
+## 🧠 What I Do
+- ⚡ Build performant React applications
+- 🧩 Design reusable component systems
+- 📈 Optimize frontend performance (Core Web Vitals)
+- 🎯 Write clean, maintainable code
+
+---
+
+## 📈 Current Focus
+- Advanced React Patterns
+- Frontend System Design
+- Performance Engineering
+
+---
+
+## 📬 Connect
+- Portfolio: https://teckstack.com (rebuilding)
+- LinkedIn: https://www.linkedin.com/in/kushal-jayswal/
+- Email: jayswal.kushal[at]gmail[dot]com
 
 <!---
 kutec/kutec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
